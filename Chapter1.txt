@@ -1,0 +1,3 @@
+Hello, 
+My name is Vicki Duan. 
+I am currently learning JS. 
